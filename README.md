@@ -1,3 +1,12 @@
-# header H1 URL Shortener with Flask - **IN DEVELOPMENT**
+# URL Shortener with Flask - **IN DEVELOPMENT**
 
-Libraries used: Flask, WTForms, SQLAlchemy, pyshorteners
+Project is created with Python using:
+* Flask
+* WTForms
+* SQLAlchemy
+* pyshorteners
+* Bootstrap
+
+
+
+
